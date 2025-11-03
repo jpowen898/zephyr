@@ -64,6 +64,9 @@ New APIs and options
 
 .. zephyr-keep-sorted-start re(^\* \w)
 
+* Flash
+
+   * :kconfig:option:`CONFIG_FLASH_STM32_ASYNC`
 
 .. zephyr-keep-sorted-stop
 
